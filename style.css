@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+section>div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+
+img {
+    height: 70%;
+} 
+
+
+h2 {
+    font-size: 130%;
+}
+
+h1,h2 {
+    color: darkgreen;
+}
+
+div:hover {
+    background-color: lightgreen;
+   
+}
+
+
